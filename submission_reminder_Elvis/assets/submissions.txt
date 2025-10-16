@@ -1,0 +1,12 @@
+student, assignment, submission status
+Nziza, Git, submitted
+Huguette, Shell Basics, not submitted
+Divine, Git, submitted
+Keza, Shell Basics, not submitted
+Carla, Shell Navigation, not submitted
+Ineza, Shell Navigation, submitted
+Arnaud, Git, submitted
+Igor, Shell Basics, not submitted
+Lebron, Shell Basics, submitted
+Miguel, Git, not submitted
+Creed, Shell Navigation, submitted
