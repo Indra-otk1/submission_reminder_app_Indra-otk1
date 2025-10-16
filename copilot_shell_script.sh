@@ -43,7 +43,7 @@ while [[ "$continuation" == "y" || "$continuation" == "Y" ]]; do
     copilot_function "$assignment_name"
 
     echo " "
-    read -p "Do you want to analyze another assignment (y/n): " continuation
+    read -p "Do you want to check for another assignment (y/n): " continuation
 done
 
 # Exit message
